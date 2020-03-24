@@ -1,0 +1,32 @@
+body {
+    background-color: #e5e5e5;
+    color: #252828;
+
+    text-align: center;
+}
+
+/* BOTÕES */
+button{
+    border:none;
+    background:none;
+    color: #ff5E84;
+
+   font-weight: bold;
+}
+
+.fat{
+    color: white;
+    background: #ff5E84;
+}
+
+p{
+    /* text-align: right; */
+}
+
+.hide{
+    display:none ;
+}
+
+/* #footer{
+    text-align: left;
+} */
