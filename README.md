@@ -1,6 +1,6 @@
-<h4 align="center">
-CASA CRIATIVA
-</h4>
+<p align="center">
+  <img  src="https://github.com/joselainejrs/casa-criativa/blob/master/img/imgur.png" alt="Imagem">
+</p>
 
 ```
 # FrontEnd
